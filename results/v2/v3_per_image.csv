@@ -1,0 +1,4377 @@
+version,group,label,pred
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,1
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,1
+v1+v2,partial,2,2
+v1+v2,partial,2,1
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,1
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,1
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,2
+v1+v2,partial,2,0
+v1+v2,partial,2,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,1
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,2
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,1
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,2
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,1
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,2
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,original,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,2
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,1
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,1
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,1
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,1
+v1+v2,coco,0,2
+v1+v2,coco,0,1
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,1
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,coco,0,2
+v1+v2,coco,0,0
+v1+v2,coco,0,1
+v1+v2,coco,0,0
+v1+v2,coco,0,0
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,0
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,0
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,diffusiondb,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,2
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,2
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,0
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,2
+v1+v2,unseen gen: sd3.5,1,2
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,0
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,2
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,0
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,1
+v1+v2,unseen gen: midjourney6,1,0
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,2
+v1+v2,unseen gen: midjourney6,1,2
+v1+v2,real: real_coco,0,2
+v1+v2,unseen gen: sd3.5,1,0
+v1+v2,seen gen: sd3,1,2
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,0
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,2
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,2
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,0
+v1+v2,real: real_coco,0,2
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,1
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,0
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,2
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,2
+v1+v2,real: real_coco,0,2
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,1
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,0
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,2
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,2
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,0
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,2
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,2
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,0
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,1
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,2
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,0
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,0
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,0
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,1
+v1+v2,unseen gen: midjourney6,1,0
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,2
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,2
+v1+v2,seen gen: sd3,1,2
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,0
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,0
+v1+v2,seen gen: sd3,1,2
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,2
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,1
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,0
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,0
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,0
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,2
+v1+v2,real: real_coco,0,0
+v1+v2,unseen gen: sd3.5,1,1
+v1+v2,seen gen: sd3,1,1
+v1+v2,seen gen: sd2.1,1,1
+v1+v2,seen gen: sdxl,1,1
+v1+v2,unseen gen: dalle3,1,0
+v1+v2,unseen gen: midjourney6,1,0
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,0
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,0
+v1+v2,SD inpaint edit,2,0
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,0
+v1+v2,SD inpaint edit,2,0
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,0
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,0
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,1
+v1+v2,SD inpaint edit,2,0
+v1+v2,SD inpaint edit,2,0
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,0
+v1+v2,SD inpaint edit,2,0
+v1+v2,SD inpaint edit,2,0
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,0
+v1+v2,SD inpaint edit,2,0
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,0
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,0
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,0
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,0
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,0
+v1+v2,SD inpaint edit,2,0
+v1+v2,SD inpaint edit,2,2
+v1+v2,SD inpaint edit,2,0
+v1+v2,SD inpaint edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,1
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,0
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,2
+v1+v2,Flux edit,2,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,2
+v1+v2,untouched original,0,2
+v1+v2,untouched original,0,2
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,2
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,2
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,1
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,2
+v1+v2,untouched original,0,2
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,2
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,2
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,2
+v1+v2,untouched original,0,2
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,2
+v1+v2,untouched original,0,2
+v1+v2,untouched original,0,2
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,2
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v1+v2,untouched original,0,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,1
+v3,partial,2,1
+v3,partial,2,1
+v3,partial,2,1
+v3,partial,2,1
+v3,partial,2,1
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,1
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,1
+v3,partial,2,1
+v3,partial,2,1
+v3,partial,2,1
+v3,partial,2,1
+v3,partial,2,1
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,1
+v3,partial,2,1
+v3,partial,2,2
+v3,partial,2,1
+v3,partial,2,1
+v3,partial,2,1
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,1
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,0
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,2
+v3,partial,2,0
+v3,partial,2,2
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,2
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,2
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,2
+v3,original,0,2
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,2
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,1
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,2
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,2
+v3,original,0,0
+v3,original,0,2
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,2
+v3,original,0,2
+v3,original,0,0
+v3,original,0,2
+v3,original,0,2
+v3,original,0,2
+v3,original,0,0
+v3,original,0,2
+v3,original,0,0
+v3,original,0,0
+v3,original,0,2
+v3,original,0,0
+v3,original,0,2
+v3,original,0,0
+v3,original,0,0
+v3,original,0,2
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,2
+v3,original,0,0
+v3,original,0,0
+v3,original,0,1
+v3,original,0,0
+v3,original,0,0
+v3,original,0,2
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,2
+v3,original,0,2
+v3,original,0,2
+v3,original,0,0
+v3,original,0,1
+v3,original,0,0
+v3,original,0,2
+v3,original,0,2
+v3,original,0,0
+v3,original,0,2
+v3,original,0,2
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,2
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,1
+v3,original,0,0
+v3,original,0,2
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,2
+v3,original,0,0
+v3,original,0,0
+v3,original,0,0
+v3,original,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,1
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,1
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,1
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,1
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,1
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,1
+v3,coco,0,2
+v3,coco,0,1
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,1
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,0
+v3,coco,0,2
+v3,coco,0,0
+v3,coco,0,1
+v3,coco,0,2
+v3,coco,0,0
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,0
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,0
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,diffusiondb,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,1
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,0
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,2
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,0
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,2
+v3,seen gen: sd2.1,1,2
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,1
+v3,unseen gen: midjourney6,1,0
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,2
+v3,unseen gen: midjourney6,1,2
+v3,real: real_coco,0,2
+v3,unseen gen: sd3.5,1,0
+v3,seen gen: sd3,1,0
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,0
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,2
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,2
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,0
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,1
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,0
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,1
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,2
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,2
+v3,unseen gen: midjourney6,1,0
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,1
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,0
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,2
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,0
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,0
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,0
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,0
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,1
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,2
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,0
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,0
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,0
+v3,real: real_coco,0,2
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,1
+v3,unseen gen: midjourney6,1,0
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,2
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,1
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,0
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,0
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,0
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,0
+v3,real: real_coco,0,0
+v3,unseen gen: sd3.5,1,1
+v3,seen gen: sd3,1,1
+v3,seen gen: sd2.1,1,1
+v3,seen gen: sdxl,1,1
+v3,unseen gen: dalle3,1,0
+v3,unseen gen: midjourney6,1,1
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,1
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,0
+v3,SD inpaint edit,2,0
+v3,SD inpaint edit,2,0
+v3,SD inpaint edit,2,0
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,0
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,0
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,1
+v3,SD inpaint edit,2,0
+v3,SD inpaint edit,2,0
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,0
+v3,SD inpaint edit,2,0
+v3,SD inpaint edit,2,0
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,0
+v3,SD inpaint edit,2,0
+v3,SD inpaint edit,2,0
+v3,SD inpaint edit,2,0
+v3,SD inpaint edit,2,0
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,0
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,0
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,0
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,0
+v3,SD inpaint edit,2,0
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,SD inpaint edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,1
+v3,Flux edit,2,2
+v3,Flux edit,2,0
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,0
+v3,Flux edit,2,0
+v3,Flux edit,2,2
+v3,Flux edit,2,0
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,0
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,0
+v3,Flux edit,2,1
+v3,Flux edit,2,0
+v3,Flux edit,2,0
+v3,Flux edit,2,0
+v3,Flux edit,2,2
+v3,Flux edit,2,0
+v3,Flux edit,2,0
+v3,Flux edit,2,0
+v3,Flux edit,2,0
+v3,Flux edit,2,0
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,0
+v3,Flux edit,2,0
+v3,Flux edit,2,2
+v3,Flux edit,2,0
+v3,Flux edit,2,2
+v3,Flux edit,2,0
+v3,Flux edit,2,0
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,0
+v3,Flux edit,2,2
+v3,Flux edit,2,0
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,2
+v3,Flux edit,2,0
+v3,untouched original,0,2
+v3,untouched original,0,0
+v3,untouched original,0,1
+v3,untouched original,0,2
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,2
+v3,untouched original,0,0
+v3,untouched original,0,2
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,2
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,2
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,1
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,2
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,2
+v3,untouched original,0,2
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,2
+v3,untouched original,0,2
+v3,untouched original,0,2
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,2
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,untouched original,0,0
+v3,YOUR phone photos (Real),0,0
+v3,YOUR phone photos (Real),0,1
+v3,YOUR phone photos (Real),0,0
+v3,YOUR phone photos (Real),0,1
+v3,YOUR phone photos (Real),0,1
+v3,YOUR phone photos (Real),0,2
+v3,YOUR phone photos (Real),0,2
+v3,YOUR phone photos (Real),0,0
+v3,YOUR phone photos (Real),0,2
+v3,YOUR phone photos (Real),0,0
+v3,YOUR phone photos (Real),0,1
+v3,YOUR phone photos (Real),0,0
+v3,YOUR phone photos (Real),0,0
+v3,YOUR phone photos (Real),0,0
+v3,YOUR phone photos (Real),0,1
+v3,YOUR phone photos (Real),0,2
+v3,YOUR phone photos (Real),0,2
+v3,YOUR phone photos (Real),0,0
+v3,YOUR phone photos (Real),0,1
+v3,YOUR phone photos (Real),0,1
+v3,YOUR ChatGPT images (AI),1,0
+v3,YOUR ChatGPT images (AI),1,0
+v3,YOUR ChatGPT images (AI),1,0
+v3,YOUR ChatGPT images (AI),1,0
+v3,YOUR ChatGPT images (AI),1,2
+v3,YOUR ChatGPT images (AI),1,0
+v3,YOUR ChatGPT images (AI),1,0
+v1+v2,YOUR phone photos (Real),0,0
+v1+v2,YOUR phone photos (Real),0,1
+v1+v2,YOUR phone photos (Real),0,0
+v1+v2,YOUR phone photos (Real),0,2
+v1+v2,YOUR phone photos (Real),0,0
+v1+v2,YOUR phone photos (Real),0,2
+v1+v2,YOUR phone photos (Real),0,2
+v1+v2,YOUR phone photos (Real),0,0
+v1+v2,YOUR phone photos (Real),0,0
+v1+v2,YOUR phone photos (Real),0,0
+v1+v2,YOUR phone photos (Real),0,1
+v1+v2,YOUR phone photos (Real),0,2
+v1+v2,YOUR phone photos (Real),0,0
+v1+v2,YOUR phone photos (Real),0,0
+v1+v2,YOUR phone photos (Real),0,1
+v1+v2,YOUR phone photos (Real),0,2
+v1+v2,YOUR phone photos (Real),0,0
+v1+v2,YOUR phone photos (Real),0,2
+v1+v2,YOUR phone photos (Real),0,2
+v1+v2,YOUR phone photos (Real),0,1
+v1+v2,YOUR ChatGPT images (AI),1,0
+v1+v2,YOUR ChatGPT images (AI),1,0
+v1+v2,YOUR ChatGPT images (AI),1,2
+v1+v2,YOUR ChatGPT images (AI),1,0
+v1+v2,YOUR ChatGPT images (AI),1,2
+v1+v2,YOUR ChatGPT images (AI),1,0
+v1+v2,YOUR ChatGPT images (AI),1,0

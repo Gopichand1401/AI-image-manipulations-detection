@@ -1,0 +1,8 @@
+{
+  "test_accuracy": 0.8687921520539547,
+  "test_macro_f1": 0.8617395890662264,
+  "loc_f1_overall_segm": 0.7293223060377472,
+  "loc_f1_per_image_segm": 0.5466170859344234,
+  "area_mae_partial_mask_only": 1.725699074674647,
+  "area_mae_all": 0.9665791330351489
+}

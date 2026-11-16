@@ -1,0 +1,9 @@
+metric,earlier 07 + 09,unified only,FINAL hybrid
+3-class accuracy (this test set),,0.8510116492949111,0.8687921520539547
+Real (COCO) accuracy,0.768,0.9269949066213922,0.9286926994906621
+Real (originals) accuracy,,0.7345132743362832,0.7345132743362832
+Full AI accuracy,0.98,0.99,0.99
+Partial AI accuracy,0.788,0.6153846153846154,0.6806526806526807
+Localization overall F1 (segm),0.729,0.41115560077328817,0.7293223060377472
+Localization mean F1 per image (segm),0.547,0.3877671385666202,0.5466170859344234
+"Partial AI area MAE, mask only (pp)",1.47,,1.725699074674647

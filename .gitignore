@@ -1,17 +1,41 @@
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
+# --- data (too large / not ours to redistribute) ---
+COCO_5000/
+DiffusionDB_5000/
+Partial_AI_5000/
+extra_train/
+ood_test/
+own_data/
+features/
 
-# Datasets
-data/
-datasets/
-DS3010_Data/
-
-# Model files
+# --- trained models (share via Google Drive) ---
+saved_models/
 *.pth
 *.pt
-*.h5
-*.keras
+*.pkl
+*.npy
+*.npz
+*.memmap
 
-# Results
-results/
+# --- personal / bulky outputs ---
+results/analysis/
+results/report_images/figures/
+results/report_images/inputs/
+results/localization/*/
+
+# --- generated helper modules and caches ---
+unified_ds.py
+unified_ds_v2.py
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.gradio/
+flagged/
+
+# --- environments / OS ---
+.venv/
+venv/
+aienv/
+.env
+Thumbs.db
+desktop.ini
+.DS_Store
